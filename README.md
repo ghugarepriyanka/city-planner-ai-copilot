@@ -1,4 +1,4 @@
-# City Information Assistant (Backend)
+# City Planner AI Copilot (Backend)
 Run backend (FastAPI) locally
 
 ## Backend
